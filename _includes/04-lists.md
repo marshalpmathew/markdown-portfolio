@@ -1,6 +1,6 @@
-<ol>
-  <li>*games</li>
-  <li>*coding</li>
-  <li>*football</li>
-  <li>*pancake</li>
-  </ol>
+<ul>
+  <li>games</li>
+  <li>coding</li>
+  <li>football</li>
+  <li>pancake</li>
+  </ul>
